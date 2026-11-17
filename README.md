@@ -1,0 +1,1 @@
+AutoClicker release files.

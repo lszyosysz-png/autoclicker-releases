@@ -1,0 +1,4 @@
+version=0.2.0
+url=https://github.com/lszyosysz-png/autoclicker-releases/releases/download/v0.2.0/autoclicker.exe
+sha256=bd32f1650a1e4ed64acae03de7e4cb7e3ef1de84e07f92ef1133f8c2cb8b1b6b
+notes=Test update: new features|Bug fixes
