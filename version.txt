@@ -1,4 +1,4 @@
-version=0.3.0
-url=https://github.com/lszyosysz-png/autoclicker-releases/releases/download/v0.3.0/autoclicker.exe
-sha256=58c34d47fc475a729c6839be1046fff6b2500c3f765f44f49a9457b3bf56ef3d
-notes=New green text in the window|Update test
+version=0.4.0
+url=https://github.com/lszyosysz-png/autoclicker-releases/releases/download/v0.4.0/autoclicker.exe
+sha256=5397c8dfb6e2bf19c3bde65efd6d1bbca4b708aeebf14312b86d794776e537cf
+notes=New look: dark theme and card layout|Removed test text
