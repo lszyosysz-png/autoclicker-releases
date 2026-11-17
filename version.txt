@@ -1,4 +1,4 @@
-version=0.4.0
-url=https://github.com/lszyosysz-png/autoclicker-releases/releases/download/v0.4.0/autoclicker.exe
-sha256=5397c8dfb6e2bf19c3bde65efd6d1bbca4b708aeebf14312b86d794776e537cf
-notes=New look: dark theme and card layout|Removed test text
+version=0.5.0
+url=https://github.com/lszyosysz-png/autoclicker-releases/releases/download/v0.5.0/autoclicker.exe
+sha256=ce1514b51148e655d3295627ef6e3c76c526f53ac587b492ab78be8a7389d87e
+notes=Customizable layout: add, remove, move and resize elements|Custom app name and icon|Tray icon, hide from taskbar, desktop and Start menu shortcuts|Themes with animated or image backgrounds
